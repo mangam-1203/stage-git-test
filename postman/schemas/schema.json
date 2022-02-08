@@ -8,7 +8,7 @@
         },
         "types": [
             {
-                "kind": "OBJECT",
+                "kind": "OBJECT3",
                 "name": "Query",
                 "description": null,
                 "fields": [
